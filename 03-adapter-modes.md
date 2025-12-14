@@ -1,4 +1,4 @@
-# Phase 3 – Network Adapter Modes
+# Network Adapter Modes
 
 ## Goal
 Understand how different VMware network adapter modes affect
